@@ -1,6 +1,6 @@
 ![alt text](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo_transparent.png)
 
-Projeto que traduz o painel Pterodactyl (versão 1.0 para cima) para o Português Brasileiro. Esse é um projeto comunitário da [Dorelli's Community](https://discord.gg/Ew2MdZEMzz).
+Projeto que traduz o painel Pterodactyl (versão 1.0 para cima) para o Português Brasileiro. Este é um projeto comunitário da [Dorelli's Community](https://discord.gg/Ew2MdZEMzz).
 
 ## Instalação
 
