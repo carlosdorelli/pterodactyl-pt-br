@@ -13,6 +13,6 @@ return [
     ],
     'notices' => [
         'account_created' => 'A conta foi criada com sucesso.',
-         'account_updated' => 'A conta foi atualizada com sucesso.',
+        'account_updated' => 'A conta foi atualizada com sucesso.',
     ],
 ];

@@ -26,9 +26,9 @@ return [
         'server_reinstalled' => 'Este servidor foi colocado na fila para reinstalação começando agora.',
         'details_updated' => 'Os detalhes do servidor foram atualizados com sucesso.',
         'docker_image_updated' => 'Alterou com sucesso a imagem padrão do Docker para usar neste servidor. Uma reinicialização é necessária para aplicar essa alteração.',
-        'node_required' => 'Você deve ter pelo menos um nó configurado antes de poder adicionar um servidor a este painel.',
-        'transfer_nodes_required' => 'Você deve ter pelo menos dois nós configurados antes de poder transferir servidores.',
+        'node_required' => 'Você deve ter pelo menos um Node configurado antes de poder adicionar um servidor a este painel.',
+        'transfer_nodes_required' => 'Você deve ter pelo menos dois Nodes configurados antes de poder transferir servidores.',
         'transfer_started' => 'A transferência do servidor foi iniciada.',
-        'transfer_not_viable' => 'O nó que você selecionou não tem o espaço em disco necessário ou memória disponível para acomodar este servidor.',
+        'transfer_not_viable' => 'O Node que você selecionou não tem o espaço em disco necessário ou memória disponível para acomodar este servidor.',
     ],
 ];

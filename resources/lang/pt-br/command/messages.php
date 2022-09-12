@@ -37,7 +37,7 @@ return [
     ],
     'server' => [
         'rebuild_failed' => 'A solicitação de reconstrução para ":name" (#:id) no nó ":node" falhou com o erro: :message',
-        'reinstalar' => [
+        'reinstall' => [
             'failed' => 'A solicitação de reinstalação para ":name" (#:id) no nó ":node" falhou com o erro: :message',
             'confirm' => 'Você está prestes a reinstalar contra um grupo de servidores. Você deseja continuar?',
         ],

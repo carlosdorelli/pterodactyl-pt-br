@@ -10,8 +10,8 @@
 return [
     'notices' => [
         'created' => 'Um novo ninho, :name, foi criado com sucesso.',
-         'deleted' => 'Excluído com sucesso o ninho solicitado do Painel.',
-         'updated' => 'Atualizou com sucesso as opções de configuração do ninho.',
+        'deleted' => 'Excluído com sucesso o ninho solicitado do Painel.',
+        'updated' => 'Atualizou com sucesso as opções de configuração do ninho.',
     ],
     'eggs' => [
         'notices' => [
